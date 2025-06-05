@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pillow
+pytesseract
+sympy
+transformers
+torch
